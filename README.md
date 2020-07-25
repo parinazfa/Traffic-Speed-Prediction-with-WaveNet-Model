@@ -3,7 +3,7 @@ WaveNet Model for Traffic Speed Forecasting
 
 ## Resources
 
-* [Seq2Seq Model](https://github.com/JEddy92/TimeSeries_Seq2Seq/blob/master/notebooks/TS_Seq2Seq_Conv_Full.ipynb) - Helpful Github notebook for creating WaveNEt model for time series prediction.
+* [WaveNet Model](https://github.com/JEddy92/TimeSeries_Seq2Seq/blob/master/notebooks/TS_Seq2Seq_Conv_Full.ipynb) - Helpful Github notebook for creating WaveNEt model for time series prediction.
 
 ## How to Contribute
 
