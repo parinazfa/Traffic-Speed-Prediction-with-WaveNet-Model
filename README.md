@@ -14,7 +14,7 @@ Next, clone this repository to your desktop to make changes.
 
 ```sh
 $ git clone {https://github.com/parinazfa/Traffic-Speed-Prediction-with-WaveNet-Model.git}
-$ cd Udacity_Capstone_Project
+$ cd Traffic-Speed-Prediction-with-WaveNet-Model
 ```
 
 Once you've pushed changes to your local repository, you can issue a pull request by clicking on the green pull request icon.
